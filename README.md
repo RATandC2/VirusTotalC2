@@ -4,6 +4,6 @@ Abusing VirusTotal API to host our C2 traffic, usefull for bypassing blocking fi
 
 # usage  
 ## Upload a file in VirusTotal UI, get the file Hash , u need also the API key after creating an account  
-## Implant/TeamServer.exe <file Hash>
+## Implant/TeamServer.exe <file Hash>  
 
 https://user-images.githubusercontent.com/110354855/192811979-f9beb0b8-c0cd-42d0-bd48-29b86a6775a4.mp4
